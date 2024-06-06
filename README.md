@@ -33,11 +33,11 @@ Físico com sólida experiência em Matemática, Programação e Análise de Dad
 
 ## Experiência Profissional
 
-### Projeto de Pesquisa
+### [Projeto de Pesquisa](https://github.com/Mohaamedl/Physics-Project)
 Desenvolvi um projeto de pesquisa em Física focado na manipulação de feixes de luz para atribuição de momento angular orbital. O trabalho incluiu modelagem matemática do problema e simulação computacional dos resultados esperados, integrados em uma GUI desenvolvida em MATLAB.
 
 ### Desenvolvimento de Software
-Liderei o desenvolvimento de uma base de dados em SQL Server e de uma aplicação desktop no ambiente .NET para suporte a um jogo RPG (PathFinder). Além disso, desenvolvi um site de consultoria de informações e dados estatísticos sobre todos os Jogos Olímpicos, utilizando HTML, CSS para a estrutura, e JavaScript, jQuery e Knockout.js para comunicação com a API.
+Liderei o desenvolvimento de uma base de dados em SQL Server e de uma aplicação desktop no ambiente .NET para suporte a um jogo [RPG (PathFinder)](https://github.com/Mohaamedl/DB-project). Além disso, desenvolvi um site de consultoria de informações e dados estatísticos sobre [todos os Jogos Olímpicos[(https://github.com/Mohaamedl/Projeto_ITW), utilizando HTML, CSS para a estrutura, e JavaScript, jQuery e Knockout.js para comunicação com a API.
 
 ### Projetos em Andamento
 - Criar um clone da plataforma Twitch, com uso de Next.js, Tailwind CSS, React, entre outras tecnologias.
