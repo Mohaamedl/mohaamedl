@@ -44,13 +44,6 @@ Liderei o desenvolvimento de uma base de dados em SQL Server e de uma aplicaçã
 - Desenvolver um portfólio em React para exibir esses projetos apresentados e futuros desenvolvimentos.
 
 ---
-
-## Educação
-**Universidade de Aveiro**: 2021 - atualmente
-- Licenciatura em Física
-
----
-
 ## Habilidades Técnicas
 - **Programação**: Experiência em Python, Java, C#, HTML, CSS, JavaScript e MATLAB. Atualmente aprendendo React, TypeScript, e Next.js.
 - **Análise de Dados**: Conhecimento em SQL, desde análise de requisitos até a normalização, indexação, otimização e segurança.
@@ -58,8 +51,11 @@ Liderei o desenvolvimento de uma base de dados em SQL Server e de uma aplicaçã
 
 ---
 
-## GitHub
-Confira meus projetos e colaborações no meu [GitHub](https://github.com/Mohaamedl).
+
+---
+## Educação
+**Universidade de Aveiro**: 2021 - atualmente
+- Licenciatura em Física
 
 ---
 
