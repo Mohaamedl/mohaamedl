@@ -55,7 +55,7 @@ Led the development of a database in SQL Server and a desktop application in the
 ---
 
 ## Education
-**University of Aveiro**: 2021 - Present
+**University of Aveiro**: 2021 - 2024
 - Bachelor's Degree in Physics
   
 ---
