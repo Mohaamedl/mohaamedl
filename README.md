@@ -75,8 +75,6 @@ Seeking a position in the technology sector to apply technical and analytical sk
 - **Email**: mohamedhadodo33@gmail.com
 
 ---
-
----
 ## Sobre Mim
 Físico com sólida experiência em Matemática, Programação e Análise de Dados. Competência comprovada em resolução de problemas complexos e otimização de processos. Experiência em trabalho colaborativo em equipe e atenção aos detalhes. Comprometido com a eficiência e o sucesso organizacional.
 
