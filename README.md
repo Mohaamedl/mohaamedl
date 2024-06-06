@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://giffiles.alphacoders.com/144/14469.gif" alt="Stars gif">
+  <img height = "300" width="1000" src="https://giffiles.alphacoders.com/144/14469.gif" alt="Stars gif">
 </p>
 <h1 align="center">Holii 👋, I'm Mohamed Haddadi</h1>
 <h3 align="center">Physicist with solid experience in Mathematics, Programming, and Data Analysis. Proven competence in solving complex problems and process optimization. Experienced in collaborative teamwork and attention to detail. Committed to efficiency and organizational success.</h3>
