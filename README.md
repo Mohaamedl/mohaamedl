@@ -16,6 +16,56 @@ Here are some ideas to get you started:
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohaamedl&layout=donut-vertical&hide=jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohaamedl)](https://github.com/anuraghazra/github-readme-stats)
+# Mohamed Haddadi
+**Physicist**
+
+- **Age**: 23 years old
+- **Phone**: 969752678
+- **Email**: mohamedhadodo33@gmail.com
+
+---
+
+## About Me
+Physicist with solid experience in Mathematics, Programming, and Data Analysis. Proven competence in solving complex problems and process optimization. Experienced in collaborative teamwork and attention to detail. Committed to efficiency and organizational success.
+
+---
+
+## Professional Experience
+
+### Research Project
+Developed a research project in Physics focused on manipulating light beams to assign orbital angular momentum. The work included mathematical modeling of the problem and computational simulation of the expected results, integrated into a GUI developed in MATLAB.
+
+### Software Development
+Led the development of a database in SQL Server and a desktop application in the .NET environment to support an RPG game (PathFinder). Additionally, developed a consultancy website for information and statistical data on all Olympic Games, using HTML, CSS for the structure, and JavaScript, jQuery, and Knockout.js for API communication.
+
+### Ongoing Projects
+- Creating a clone of the Twitch platform using Next.js, Tailwind CSS, React, among other technologies.
+- Developing a React portfolio to showcase these projects and future developments.
+
+---
+
+## Technical Skills
+- **Programming**: Experience in Python, Java, C#, HTML, CSS, JavaScript, and MATLAB. Currently learning React, TypeScript, and Next.js.
+- **Data Analysis**: Knowledge in SQL, covering requirements analysis, normalization, indexing, optimization, and security.
+- **Mathematical Foundation**: Solid knowledge in linear algebra, calculus, statistics, and numerical methods.
+
+---
+
+## Education
+**University of Aveiro**: 2021 - Present
+- Bachelor's Degree in Physics
+  
+---
+
+## Career Objective
+Seeking a position in the technology sector to apply technical and analytical skills, contributing to the development of efficient and innovative solutions.
+---
+
+
+
+--- 
+#### Versão em português:
+---
 
 # Mohamed Haddadi
 **Físico**
@@ -26,6 +76,7 @@ Here are some ideas to get you started:
 
 ---
 
+---
 ## Sobre Mim
 Físico com sólida experiência em Matemática, Programação e Análise de Dados. Competência comprovada em resolução de problemas complexos e otimização de processos. Experiência em trabalho colaborativo em equipe e atenção aos detalhes. Comprometido com a eficiência e o sucesso organizacional.
 
@@ -48,9 +99,6 @@ Liderei o desenvolvimento de uma base de dados em SQL Server e de uma aplicaçã
 - **Programação**: Experiência em Python, Java, C#, HTML, CSS, JavaScript e MATLAB. Atualmente aprendendo React, TypeScript, e Next.js.
 - **Análise de Dados**: Conhecimento em SQL, desde análise de requisitos até a normalização, indexação, otimização e segurança.
 - **Base Matemática**: Conhecimento sólido em álgebra linear, cálculo, estatística e métodos numéricos.
-
----
-
 
 ---
 ## Educação
