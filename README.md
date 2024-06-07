@@ -47,7 +47,7 @@ Led the development of a database in SQL Server and a desktop application in the
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohaamedl&show_icons=true&locale=en&hide=jupyter%20notebook,html,Mathematica&theme=algolia" alt="nn" /></p><br>
 <br>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mohaamedl&show_icons=true&locale=en&theme=algolia" alt="nn" /></p><br>
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 
 
 
