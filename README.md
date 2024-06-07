@@ -31,7 +31,7 @@ Developed a research project in Physics focused on manipulating light beams to a
 
 ### Software Development
 
-Led the development of a database in SQL Server and a desktop application in the .NET environment to support an RPG game (PathFinder) as part of the Database course. Additionally, developed a consultancy website for information and statistical data on all Olympic Games as part of the Web Technologies course, using HTML and CSS for the structure, and JavaScript, jQuery, and Knockout.js for API communication.
+Led the development of a database in SQL Server and a desktop application in the .NET environment to support an [RPG game (PathFinder)](https://github.com/Mohaamedl/DB-project) as part of the Database course. Additionally, developed a consultancy website for information and statistical data on [all Olympic Games](https://github.com/Mohaamedl/Projeto_ITW) as part of the Web Technologies course, using HTML and CSS for the structure, and JavaScript, jQuery, and Knockout.js for API communication.
 
 ### Ongoing Projects
 - Creating a clone of the Twitch platform using Next.js, Tailwind CSS, React, among other technologies.
@@ -40,7 +40,7 @@ Led the development of a database in SQL Server and a desktop application in the
 ---
 
 ## Technical Skills
-- **Programming**: Experience in Python, Java, C#, HTML, CSS, JavaScript, and MATLAB. Currently learning React, TypeScript, and Next.js.
+- **Programming**: Experience in Python, Java,C, C#, HTML, CSS, JavaScript, and MATLAB. Currently learning React, TypeScript, and Next.js.
 - **Data Analysis**: Knowledge in SQL, covering requirements analysis, normalization, indexing, optimization, and security.
 - **Mathematical Foundation**: Solid knowledge in linear algebra, calculus, statistics, and numerical methods.
 
