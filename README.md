@@ -77,7 +77,7 @@ Seeking a position in the technology sector to apply technical and analytical sk
 </p>
 <br>
 <p align="left">
-  <a href="https://www.linkedin.com/in/mohamed-haddadi-3346961a9" target="_blank">
+  <a href="https://www.linkedin.com/in/mohaamedl/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://www.instagram.com/mohaamed_l/" target="_blank">
