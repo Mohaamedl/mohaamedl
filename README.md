@@ -30,7 +30,8 @@
 Developed a research project in Physics focused on manipulating light beams to assign orbital angular momentum. The work included mathematical modeling of the problem and computational simulation of the expected results, integrated into a GUI developed in MATLAB.
 
 ### Software Development
-Led the development of a database in SQL Server and a desktop application in the .NET environment to support an [RPG game (PathFinder)](https://github.com/Mohaamedl/DB-project). Additionally, developed a consultancy website for information and statistical data on [all Olympic Games](https://github.com/Mohaamedl/Projeto_ITW), using HTML, CSS for the structure, and JavaScript, jQuery, and Knockout.js for API communication.
+
+Led the development of a database in SQL Server and a desktop application in the .NET environment to support an RPG game (PathFinder) as part of the Database course. Additionally, developed a consultancy website for information and statistical data on all Olympic Games as part of the Web Technologies course, using HTML and CSS for the structure, and JavaScript, jQuery, and Knockout.js for API communication.
 
 ### Ongoing Projects
 - Creating a clone of the Twitch platform using Next.js, Tailwind CSS, React, among other technologies.
