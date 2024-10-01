@@ -10,7 +10,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohaamedl&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 <hr>
 
-<h3 align="center">A physicist with solid experience in Mathematics, Programming, and Data Analysis. Proven competence in solving complex problems and process optimization. Experienced in collaborative teamwork and attention to detail. Committed to efficiency and organizational success.</h3>
+<h3 align="center">Software Developer with a strong foundation in mathematics, programming, and data analysis. Experienced in solving technical challenges and optimizing processes. Skilled in collaborative teamwork, with attention to detail and a focus on delivering efficient solutions that support organizational goals.</h3>
 <br>
 <br>
 <br>
