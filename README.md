@@ -54,12 +54,6 @@ Led the development of a database in SQL Server and a desktop application in the
 **University of Aveiro**: 2021 - 2024
 - Bachelor's Degree in Physics
   
----
-
-## Career Objective
-Seeking a position in the technology sector to apply technical and analytical skills, contributing to the development of efficient and innovative solutions.
----
-
 
 
 --- 
